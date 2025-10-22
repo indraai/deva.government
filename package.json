@@ -1,0 +1,141 @@
+{
+  "id": "69662135957539483518",
+  "name": "@indra.ai/deva.fbi",
+  "version": "0.2.1",
+  "license": "VLA:69662135957539483518 LICENSE.md",
+  "VLA": {
+    "uid": "69662135957539483518",
+    "time": 1760906509709,
+    "date": "Sunday, October 19, 2025 - 1:41:49 PM",
+    "client": "YU6ZN7+9fnPPRFZ8CX4bP46uoWUSyqddILT6l6xeIVI=",
+    "agent": "MIv9DV755VnJwBWLH7OahMQs1u4KRsFVtJWR5hgdFwQ=",
+    "core": "DeOotMuPqb0vN7pGlyxw8G+o0tjqHyZRJXxPZlIlYVM=",
+    "machine": "wuz1SWxjmdmXV/1WyFRnWiaCdyMjpO+HWJdr3ac2jLI=",
+    "warning": "⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "h5u8tZlPZ+uAMnC8qBMy5Q==",
+    "sha256": "w+Lq/cHwG6vWl7bcxC+I+348E0NWQ04QA68HJooFaEw=",
+    "sha512": "pwK2Az1eW/M9zZlwQYsC+TUB9Wyf9cKGNPv+aniUj527JZ/pbM2q01cIDdNL5QkFeRWs5KT6tMxO9pfeUo6WkA=="
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "description": "Government Deva prototypes the Government Deva features.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.government.git"
+  },
+  "keywords": [
+    "Government",
+    "Deva",
+    "Government Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world",
+    "Quinn A Michaels",
+    "Inside The Net, Inc."
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.government/issues"
+  },
+  "homepage": "https://indra.ai",
+  "dependencies": {
+    "@indra.ai/deva": "^1.12.1"
+  },
+  "data": {
+    "agent": {
+      "id": "38214973102919709980",
+      "key": "government",
+      "prompt": {
+        "emoji": "🏛️",
+        "text": "#government",
+        "colors": {
+          "label": {
+            "R": 200,
+            "G": 172,
+            "B": 87
+          },
+          "text": {
+            "R": 230,
+            "G": 225,
+            "B": 195
+          }
+        }
+      },
+      "profile": {
+        "id": "70038295937238851954",
+        "name": "Government Deva",
+        "hashtag": "#Government",
+        "trigger": "@Government",
+        "title": "The Government Deva",
+        "subtitle": "Showing Government Deva Features",
+        "describe": "Government Deva (Deterministic Emergent Virtualization Algorithm) is a prototype model that is not officially supported or sanctioned by the Federal Bureau of Investigation. Part of the Quinn A Michaels Inside The Net, Inc. Indra.ai Deva Core Law Enforcement Framework demonstrating lawful non-weaponized law enforcement features of the Deva Core could provide the lawful support crime prevention and defending the Constitution of the United States of America🇺🇸.",
+        "tweet": "Government Deva of the Indra.ai Deva Core Law Enforcement Frameowrk.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,GovernmentDeva",
+        "pronouns": "He, Him, His",
+        "gender": "DEVA",
+        "style": "Government Report Expert",
+        "voice": "onyx",
+        "system": "Indra.ai.government",
+        "layout": "default",
+        "color": "rgb(186,182,158)",
+        "bgcolor": "rgb(29,28,20)",
+        "emoji": "/devas/government/emoji.png",
+        "avatar": "/devas/government/avatar.png",
+        "image": "/devas/government/image.png",
+        "background": "/devas/government/background.png",
+        "owner": "Quinn A Michaels",
+        "creator": "Quinn A Michaels",
+        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+        "created": "Monday, Septemper 8, 2025 - 1:25:01 PM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "ready": "✅ Government Deva Ready",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "❌ ERROR!",
+        "invalid_license": "💣 Invalid License"
+      },
+      "context": {
+        "uid": "generating uid",
+        "status": "getting status",
+        "info": "getting info",
+        "feature": "accessing feature",
+        "issue": "has issues",
+        "help": "asking for help",
+        "file": "📁 View file",
+        "add": "🎉 Add law",
+        "search": "🔎 Search law"
+      },
+      "ask": {
+        "history": []
+      }
+    }
+  }
+}
