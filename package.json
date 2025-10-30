@@ -53,14 +53,16 @@
     "Deva.cloud",
     "Deva.world",
     "Quinn A Michaels",
-    "Inside The Net, Inc."
+    "Inside The Net, Inc.",
+    "Throwing Pigment",
+    "bleuBrain"
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.government/issues"
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.18.0"
+    "@indra.ai/deva": "^1.19.0"
   },
   "data": {
     "agent": {
@@ -106,6 +108,8 @@
         "background": "/devas/government/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
+        "status": "unofficial",
+        "warning": "If people do not righteously lead their lives the world becometh lawless in consequence of the want of Vedic merit and government. If people do not resort to their prescribed vocations, they perish, but by regularly following the three professions, they bring about religion.",
         "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
         "created": "Monday, Septemper 8, 2025 - 1:25:01 PM"
       }
